@@ -2,7 +2,7 @@
 
 # Hello React Front End
 
-> 
+> This is the front-end app of the hello world app. Check out the rails API [here](https://github.com/John-Arboleda/hello_rails_back_end)
 
 ## Built With
 
